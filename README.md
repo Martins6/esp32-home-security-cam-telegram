@@ -4,11 +4,11 @@
 
 The hardware consistes of:
 
-01 x ESP32-CAM Module with OV2640 2MP Camera
-01 x FTDI FT232RL USB Serial Converter Board
-01 x 5V 1A Switching Power Supply with USB Input
-01 x Mini USB Cable
-40 x Female-to-Female Jumper Wires
+- 01 x ESP32-CAM Module with OV2640 2MP Camera
+- 01 x FTDI FT232RL USB Serial Converter Board
+- 01 x 5V 1A Switching Power Supply with USB Input
+- 01 x Mini USB Cable
+- 40 x Female-to-Female Jumper Wires
 
 <!-- markdownlint-disable-next-line MD033 -->
 <img src="images/hardware.png" alt="Hardware" width="50%">
