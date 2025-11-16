@@ -17,6 +17,9 @@ The schematic is as follows:
 
 ![Schematic](images/schema.png)
 
+The purple wire being only used for activating Flash mode, then you need to
+unplug it.
+
 ## Software
 
 Fist, you need to install the Arduino IDE and the ESP32 board support package.
